@@ -1,0 +1,15 @@
+; system.top created by opt (v: 1.0.0) on Sun Sep 15 04:17:28 2024
+
+#include "martini_v3.0.0_TC1ch.itp"
+#include "martini_v3.0.0_solvents_v1.itp"
+
+#include "model_cg.itp"
+
+[ system ]
+; Name
+Coarse-grained Opt task
+
+[ molecules ]
+; Compound # mols
+UNL 1
+CLF 439

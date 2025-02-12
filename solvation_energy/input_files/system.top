@@ -1,0 +1,14 @@
+; system.top created by opt (v: 1.0.0) on Fri Sep 06 18:45:50 2024
+
+#include "oplsaa.ff/forcefield.itp"
+#include "topol.top"
+#include "oplsaa.ff/tip3p.itp"
+
+[ system ]
+; Name
+All-atom Opt task
+
+[ molecules ]
+; Compound # mols
+UNL 1
+SOL 3576
