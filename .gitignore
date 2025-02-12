@@ -1,3 +1,5 @@
 clustering/__pycache__
 clustering/.env
 solvation_energy/.ipynb_checkpoints
+umbrella/out
+umbrella/aa/__pycache__
